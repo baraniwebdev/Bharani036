@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bharani
-- 👀 I’m interested in CYBERSECURITY 
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ..
+- 👀 I’m interested in CYBER SECURITY 
+- 🌱 I’m currently learning some cool stuff 
+- 💞️ I’m looking to collaborate with anyone 
 
 
 <!---
